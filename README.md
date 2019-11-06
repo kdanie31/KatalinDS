@@ -1,2 +1,2 @@
-# KatalinDS
+# datasciencecoursera
 CourseraCourse
